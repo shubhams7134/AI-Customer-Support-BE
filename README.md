@@ -1,4 +1,4 @@
-[# AI Customer Support Backend
+AI Customer Support Backend
 
 Backend API for AI-powered ticket management system with automatic categorization, priority assignment, and smart moderator matching.
 
