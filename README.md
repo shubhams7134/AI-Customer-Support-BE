@@ -128,3 +128,7 @@ Populate database with sample data:
 ```bash
 node seed-ecommerce-data.js
 ```
+
+### 🔗 Related Repositories
+- **Frontend Repository**: [https://github.com/shubhams7134/ai-support-desk](https://github.com/shubhams7134/ai-support-desk)
+- **Live Demo**: [https://ai-support-desk.vercel.app](https://ai-support-desk.vercel.app)
