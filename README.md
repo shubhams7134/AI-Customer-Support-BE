@@ -1,4 +1,4 @@
-# AI Customer Support Backend
+[# AI Customer Support Backend
 
 Backend API for AI-powered ticket management system with automatic categorization, priority assignment, and smart moderator matching.
 
@@ -133,3 +133,4 @@ node seed-ecommerce-data.js
 
 MIT
 
+](https://github.com/shubhams7134/ai-support-desk1)
