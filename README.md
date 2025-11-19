@@ -128,9 +128,3 @@ Populate database with sample data:
 ```bash
 node seed-ecommerce-data.js
 ```
-
-## 📝 License
-
-MIT
-
-](https://github.com/shubhams7134/ai-support-desk1)
